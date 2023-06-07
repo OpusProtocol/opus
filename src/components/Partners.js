@@ -6,10 +6,10 @@ const Partners = () => {
         <section id="partner">
             <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-2">
                     <h4>Partners</h4>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-10">
                     <div class="partner-right">
                         <img src={p1} class="img-fluid" alt=''/>
                         <img src={p2} class="img-fluid" alt=''/>

@@ -9,7 +9,7 @@ const Footer = () => {
         <footer id='footer'>
             <div class="container">
                 <div class="row f-top">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-md-6 col-12 order-lg-1 order-md-1 order-2">
                         <img src={logo} class="img-fluid logo-footer" alt='Opus logo white'/>
                         <div class="f-address">
                             <p>
@@ -39,7 +39,7 @@ const Footer = () => {
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-md-6 col-12 order-lg-2 order-md-2 order-1 div-menu-footer">
                         <div>
                             <ul>
                                 <li>

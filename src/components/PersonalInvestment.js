@@ -3,7 +3,7 @@ const PersonalInvestment = () => {
     return (
         <section id="personal-investment">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 div-bg_personal_investment">
                     <img src={bg} class="img-fluid" alt=''/>
                 </div>
                 <div class="col-lg-6">

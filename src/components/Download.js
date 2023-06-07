@@ -6,7 +6,7 @@ const Download = () => {
         <section id="download" class="d-flex align-items-center">
             <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-6">
                 <div class="download-left">
                 <img src={logoWhite} class="img-fluid logo-white-download" alt='Logo Opus'/>
                 <h1>Download <br/>
@@ -15,7 +15,7 @@ const Download = () => {
                 </div>
 
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-6">
                     <img src={bg} class="img-fluid" alt='Download Opus'/>
                 </div>
             </div>

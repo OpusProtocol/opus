@@ -1,7 +1,7 @@
 import bg from '../assets/img/bg_banner.png'
 const Banner = () => {
     return (
-      <section id="banner" class="d-flex align-items-center">
+      <section id="banner" class="d-lg-flex align-items-center">
         <div class="container">
           <div class="row">
               <div class="col-12 col-md-12 col-lg-6 d-flex flex-column justify-content-center">
