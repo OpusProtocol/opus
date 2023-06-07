@@ -11,9 +11,9 @@ const Partners = () => {
                 </div>
                 <div class="col-lg-6">
                     <div class="partner-right">
-                        <img src={p1} class="img-fluid"/>
-                        <img src={p2} class="img-fluid"/>
-                        <img src={p3} class="img-fluid"/>
+                        <img src={p1} class="img-fluid" alt=''/>
+                        <img src={p2} class="img-fluid" alt=''/>
+                        <img src={p3} class="img-fluid" alt=''/>
                     </div>
                 </div>
             </div>

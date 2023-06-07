@@ -11,7 +11,7 @@ const IPInvestment = () => {
                             </div>
                         </div>
                     <div class="col-lg-6">
-                        <img src={bg} class="img-fluid"/>
+                        <img src={bg} class="img-fluid" alt=''/>
                     </div>
                     
                 </div>

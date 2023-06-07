@@ -8,15 +8,15 @@ const Download = () => {
             <div class="row">
                 <div class="col-lg-6">
                 <div class="download-left">
-                <img src={logoWhite} class="img-fluid logo-white-download"/>
+                <img src={logoWhite} class="img-fluid logo-white-download" alt='Logo Opus'/>
                 <h1>Download <br/>
                     Coming Soon</h1>
-                <img src={googlePlay} class="img-fluid logo-google-play"/>
+                <img src={googlePlay} class="img-fluid logo-google-play" alt='Opus with google play'/>
                 </div>
 
                 </div>
                 <div class="col-lg-6">
-                    <img src={bg} class="img-fluid"/>
+                    <img src={bg} class="img-fluid" alt='Download Opus'/>
                 </div>
             </div>
             </div>

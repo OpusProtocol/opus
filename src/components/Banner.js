@@ -19,7 +19,7 @@ const Banner = () => {
               </div>
           </div>
         </div>
-        <img src={bg} class="img-fluid bg-banner"/>
+        <img src={bg} class="img-fluid bg-banner" alt='About Opus'/>
       </section>
     )
 }

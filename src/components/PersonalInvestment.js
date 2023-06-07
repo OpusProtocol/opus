@@ -4,7 +4,7 @@ const PersonalInvestment = () => {
         <section id="personal-investment">
             <div class="row">
                 <div class="col-lg-6">
-                    <img src={bg} class="img-fluid"/>
+                    <img src={bg} class="img-fluid" alt=''/>
                 </div>
                 <div class="col-lg-6">
                     <div class="personal-right">
