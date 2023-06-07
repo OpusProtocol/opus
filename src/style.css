@@ -815,6 +815,22 @@ footer a.nav-link {
     .f-bottom a:last-child {
         margin-right: 0px;
     }
+
+    .navbar-mobile a {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        color: #000000;
+    }
+
+    .navbar-mobile a:hover,
+    .navbar-mobile .active,
+    .navbar-mobile li:hover>a {
+        color: #FF571F;
+        font-weight: 500;
+    }
 }
 
 /* Small Devices, Tablets */
@@ -869,5 +885,21 @@ footer a.nav-link {
     #ip-investment,
     #personal-investment {
         padding-top: 20px;
+    }
+
+    .navbar-mobile a {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        color: #000000;
+    }
+
+    .navbar-mobile a:hover,
+    .navbar-mobile .active,
+    .navbar-mobile li:hover>a {
+        color: #FF571F;
+        font-weight: 500;
     }
 }
